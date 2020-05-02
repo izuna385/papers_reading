@@ -1,1 +1,2 @@
-Papers_reading
+# Papers_reading
+* Still trying to improve how to dump ideas.
