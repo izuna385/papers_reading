@@ -22,3 +22,7 @@ Candidate Retrieval and Scoring
 * Also trying another pre-training strategy.
 
   * Use datasets, e.g. reddit., similar to the downstream task.
+
+## Slides (Unofficial)
+
+* [link](https://speakerdeck.com/izuna385/poly-encoders-transformer-architectures-and-pre-training-strategies-for-fast-and-accurate-multi-sentence-scoring)
